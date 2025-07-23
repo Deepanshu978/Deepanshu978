@@ -1,9 +1,21 @@
-- 👋 Hi, I’m @Deepanshu978
-- 👀 I’m interested in fixing computer problems
-- 🌱 I’m currently learning infrastructure support and security 
-- 💞️ I’m looking to collaborate on learning tools and software
-- 📫 How to reach me singhania.d123@gmail.com
+### Hi there, I'm Deepanshu 👋
 
+🚀 **System Administrator | Technical Specialist | DevOps Learner**
+
+I'm a passionate IT professional with 4+ years of experience in system administration, infrastructure support, and automation. I specialise in Linux environments, network troubleshooting, and have hands-on knowledge of cloud tools, scripting, and monitoring.
+
+🔧 **What I work with:**
+- 🐧 Linux (RHEL, Ubuntu), Windows Server  
+- ☁️ AWS (in progress), Azure  
+- 🛠️ Bash, Shell scripting, Python (basics)  
+- 🐘 PostgreSQL, SQL (basic to intermediate)  
+- 📈 Grafana, Confluent, Monitoring tools  
+- 🔐 VPN, Firewalls, Infrastructure Support  
+
+💡 Currently diving deeper into:
+- Cloud Certifications (AWS + Azure)
+- Automation & scripting for infrastructure tasks
+- Building a stock trading app: **DeepTrade** 📈📱
 <!---
 Deepanshu978/Deepanshu978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
