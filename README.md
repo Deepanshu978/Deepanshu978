@@ -15,8 +15,7 @@ I'm a passionate IT professional with 4+ years of experience in system administr
 💡 Currently diving deeper into:
 - Cloud Certifications (AWS + Azure)
 - Automation & scripting for infrastructure tasks
-- Building a stock trading app: **DeepTrade** 📈📱
-<!---
-Deepanshu978/Deepanshu978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+# Deepanshu978/Deepanshu978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
